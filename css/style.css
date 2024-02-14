@@ -41,7 +41,7 @@ body {
 
 .article-content img {
     width: 100%;
-    max-height: 200px;
+    /* max-height: 200px; */
     filter: grayscale(1);
 }
 
@@ -173,5 +173,13 @@ body {
 
     .suggested-articles {
         width: 90vw;
+    }
+
+    .article-header .bigTitle {
+        font-size: 3rem;
+    }
+
+    .article-content h3 {
+        font-size: 1.2rem;
     }
 }
