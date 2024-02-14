@@ -166,4 +166,12 @@ body {
     .static {
         display: none !important;
     }
+
+    .navigation {
+        display: none !important;
+    }
+
+    .suggested-articles {
+        width: 90vw;
+    }
 }
